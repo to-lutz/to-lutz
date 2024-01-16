@@ -1,9 +1,3 @@
-<style>
-   * {
-      background-color: red;
-   }
-</style>
-
 <div align="center">
    <h1>Hello World! I'm <a href="https://tolutz.is-a.dev">Tobias</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
    
