@@ -2,7 +2,7 @@
    <h1>Hello World! I'm <a href="https://tolutz.is-a.dev">Tobias</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
    # About Me
-   Ich bin <strong>Tobias Lutz</strong>, 16 Jahre alt und Schüler der 11. Klasse an der <a href="https://bertha-benz-sigmaringen.de">Bertha-Benz Schule Sigmaringen</a> (Techniches Gymnasium, Informationstechnik). Ich interessiere mich sehr für die IT, insbesondere in den Bereichen Web-Development (Backend), Entwicklung in Java und Datenanalyse in Python.
+   Ich bin <strong>Tobias Lutz</strong>, 17 Jahre alt und Schüler der Jahrgangsstufe 1 an der <a href="https://bertha-benz-sigmaringen.de">Bertha-Benz Schule Sigmaringen</a> (Techniches Gymnasium, Informationstechnik). Ich interessiere mich sehr für die IT, insbesondere in den Bereichen Web-Development (Backend), Entwicklung in Java und Datenanalyse in Python.
    
    ## Languages
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
