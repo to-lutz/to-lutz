@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hello World! I'm <a href="https://tolutz.is-a.dev">Tobias</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+   <h1>Hello World! I'm <a href="https://tolutz.de">Tobias</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
    # About Me
    Ich bin <strong>Tobias Lutz</strong>, 18 Jahre alt und Schüler der Jahrgangsstufe 2 an der <a href="https://bertha-benz-sigmaringen.de">Bertha-Benz Schule Sigmaringen</a> (Techniches Gymnasium, Informationstechnik). Mein duales Studium starte ich im September 2026 bei SAP. Ich interessiere mich sehr für die IT, insbesondere in den Bereichen Web-Development (Backend) und Entwicklung in Java.
